@@ -1,21 +1,14 @@
 # Taehoon Kim 👋
 
-Backend developer in progress.  
+Backend developer at [@cenaclesoft](https://github.com/cenaclesoft).  
 Building backend systems with Java and Spring Boot,  
 and focusing on understanding how they work.
 
 ## About Me
 
-- Studying backend development with Java and Spring Boot
-- Interested in REST API design, database modeling, and JPA
-- Prefer learning by building real applications
+- Studying backend development with Spring Boot in production level
+- Prefer learning by building real applications and facing problems
 - Undergraduate at Seoul National University (Electrical & Computer Engineering)
-
-## Currently
-
-- Building backend projects with Spring Boot
-- Learning SQL, PostgreSQL, and JPA
-- Practicing problem-solving with algorithms (Baekjoon)
 
 ## Tech Stack
 
