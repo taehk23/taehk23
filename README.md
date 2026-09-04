@@ -1,6 +1,6 @@
 # Taehoon Kim
 
-Backend developer at [@cenaclesoft](https://github.com/cenaclesoft).  
+Backend developer at [YPLabs](https://github.com/yplabs-ltd).  
 Building backend systems with Java and Spring Boot, and focusing on understanding how they work.
 
 ## About Me
